@@ -10,7 +10,7 @@ Skills: C# / PYTHON / JS / HTML / CSS
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with Code Partener 
 - 💬 Ask me about anything 
-- 📫 How to reach me: Discord : 
+- 📫 Feel free to contact
 - ⚡ Fun fact: I am 15y old 
 
 
